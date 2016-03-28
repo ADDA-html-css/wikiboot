@@ -1,5 +1,5 @@
 # WikiBoot!
-![boots](https://media.giphy.com/media/VPVOPv1Ls1Qzu/giphy.gif)
+![boots](http://iamtalkytina.com/wp-content/uploads/2013/09/HereDaBoot2.gif)
 
 ## Objective
 - Get practice using Bootstrap by creating a wiki style site.
